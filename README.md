@@ -2,3 +2,4 @@
 
 - Bina Nusantara University
 - Major: Computer Science
+- Thx
